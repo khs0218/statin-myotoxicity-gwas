@@ -34,4 +34,4 @@ Code archive: https://doi.org/10.5281/zenodo.XXXXXXX
 
 ## License
 
-MIT License — see [LICENSE](./LICENSE).
+MIT License — see [LICENSE](./LICENSE.txt).
