@@ -30,7 +30,7 @@ If you use this code, please cite:
 
 > Kim H, Lee S, Kho M. "Genetic Associations of Creatine Kinase–Anchored Statin-Associated Muscle Phenotypes in the UK Biobank and All of Us." *Journal of the American Heart Association*, [DOI pending].
 
-Code archive: https://doi.org/10.5281/zenodo.XXXXXXX
+Code archive: https://doi.org/10.5281/zenodo.20320596
 
 ## License
 
