@@ -20,7 +20,7 @@ This repository contains analytic scripts for:
 ## Data availability
 
 Individual-level data are not redistributable. See the manuscript's 
-Data and Code Availability statement for details on accessing 
+Data Access and Availability statement for details on accessing 
 UK Biobank and All of Us data, and for links to GWAS summary 
 statistics deposited at Zenodo.
 
